@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    height: 5em;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    background-color: white
+    
+}
+.box1{
+    height: 60px;
+    position: relative;
+    right: 70px;
+    
+}
+.navbar1{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.num1{
+    color:#3D4152;
+    position: relative;
+    
+    right: 50px;
+}
+.box2{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    height: 5em;
+    align-items: center;
+    position: relative;
+    right:5em;
+    color: #81838E;
+    
+}
+.fa-solid{
+    color: #898B8E;
+}
+.contentbox-1{
+    height: 28px;
+    width: 1393px;
+    font-size: 25px;
+    font-weight: bolder;
+    
+
+}.content{
+    width: 100%;
+    height: 1400px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: #F3F4F4;
+    
+    
+    
+}
+.content-1{
+    display: flex;
+    flex-direction: column;
+   position: relative;
+    left: 14em;
+    height: 256px;
+    width: 1445px;
+    top: 2em;
+    
+}
+.contentbox-2{
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+    width: 100%;
+    position: relative;
+    right: 3em;
+    gap: 2em;
+    position: relative;
+    top: 2em;
+    
+    
+}
+.pothi{
+    height: 180px;
+    width: 144px;
+    position:relative;
+    left: 1em;
+}
+.contentbox-4{
+    width: 1413px;
+    font-size: 25px;
+    height: 28px;
+    font-weight: bold;
+    position: relative;
+    top: 2em;
+
+}
+.p{
+    border: 1px solid black;
+    border-radius: 60px;
+    width:9em;
+    height: 1.5em;
+    text-align:center ;
+    font-size: 13px;
+    font-weight: bold;
+    color: gray;
+    align-content: center;
+    position: relative;
+    right: 3em;
+}
+.contentbox-5{
+    display: flex;
+    padding-top: 5em;
+    align-content:center;
+    width: 80em;
+    justify-content: space-evenly;
+    
+
+}.contentbox-6{
+    height: 4915px;
+    width: 1413px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2em;
+    justify-content: center;
+}
+.photo{
+    height: 205px;
+    width: 305px;
+    border-radius: 10%;
+}.pic-1{
+    height: 283.8px;
+    width: 321px;
+}
+.F-con{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.S{
+    font-size:18px ;
+    font-weight: lighter;
+}
+.T-con{
+    font-size: 16px;
+    font-weight: 500;
+    color: #756A6D;
+}.footer{
+    height: 30em;
+    background-color: black;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content:center;
+    padding-left: 90px;
+
+   
+}
+.swiggylogo{
+    height: 3em;
+    width: 3em;
+}.footer1{
+    color: white;
+    font-size: 18px;
+    height: 348px;
+    width: 262px;
+
+}.foot1{
+    
+
+}.footer2{
+    color: white;
+    font-size: 20px;
+    height: 326px;
+    width: 262px;
+    
+}.footer3{
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-bottom: 40px;
+}.subfooter1{
+    color: white;
+    font-size: 20px;
+    height: 125px;
+    width: 262px;
+    display: grid;
+    padding-bottom: 30px;
+}.subfooter2{
+    color: white;
+    font-size: 20px;
+    height: 125px;
+    width: 262px;
+    display: grid;
+    
+
+}
+.footer4{
+    color: white;
+    height: 278px;
+    font-size: 20px;
+    width: 262px;
+}
