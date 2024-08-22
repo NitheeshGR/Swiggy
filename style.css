@@ -122,6 +122,8 @@
     width: 1413px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    position: relative;
+    top: 30px;
     gap: 2em;
     justify-content: center;
 }
